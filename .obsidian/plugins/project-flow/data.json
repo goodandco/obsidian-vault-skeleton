@@ -1,0 +1,50 @@
+{
+  "dimensions": [
+    {
+      "name": "Business",
+      "order": 1,
+      "categories": [
+        "Jobs",
+        "Education"
+      ]
+    },
+    {
+      "name": "Family",
+      "order": 2,
+      "categories": [
+        "Vacations",
+        "Parenting"
+      ]
+    },
+    {
+      "name": "Friends",
+      "order": 3,
+      "categories": [
+        "Meetings"
+      ]
+    },
+    {
+      "name": "Health",
+      "order": 4,
+      "categories": [
+        "Clinics",
+        "Issues"
+      ]
+    },
+    {
+      "name": "Personal",
+      "order": 5,
+      "categories": [
+        "Writing",
+        "Reading",
+        "Music",
+        "Sports"
+      ]
+    }
+  ],
+  "projectsRoot": "1. Projects",
+  "archiveRoot": "4. Archive",
+  "projectRecords": {},
+  "archivedRecords": {},
+  "schemaVersion": 2
+}

@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "system",
+  "baseFontSize": 19,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "heatmap"
+  ],
+  "translucency": true
+}

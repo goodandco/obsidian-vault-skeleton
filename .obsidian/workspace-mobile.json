@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "b6764d0593a5eac7",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc2801734aa01f97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c93b64ec0ef46ea3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Areas/1. Me/Business/Software Development Career/Goals/2024 Software Development Career Goals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024 Software Development Career Goals"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "682c41a5838fc72b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b25482ec8325d825",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "28494736322f6658",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "3ee41281c57d4d4a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "a866583708b45644",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "56a466f9663dc856",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e98e85498ddf4484",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3fe5f7b680afaeff",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2. Areas/1. Me/Business/Software Development Career/Goals/2024 Software Development Career Goals.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b0a90c2bf6dbbebf",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2. Areas/1. Me/Business/Software Development Career/Goals/2024 Software Development Career Goals.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "f93bb736f11198d4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2. Areas/1. Me/Business/Software Development Career/Goals/2024 Software Development Career Goals.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "adb4a9760e90865f",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "c78f6799a50c8ba1",
+        "type": "leaf",
+        "state": {
+          "type": "timeline",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Day Planner Timeline"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-day-planner:Timeline": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c93b64ec0ef46ea3",
+  "lastOpenFiles": [
+    "6. Daily Notes/2024/42 Week/6 Saturday 19.10.2024.md",
+    "6. Daily Notes/2024/42 Week/7 Sunday 20.10.2024.md",
+    "_Inbox/Untitled Kanban.md",
+    "1. Projects/1. Business/Education/2024. NestJS Certification/2024. NestJS Advanced Concepts Course/1. Misc Advanced Topics/5. Worker Threads in Action.md",
+    "1. Projects/1. Business/Education/2024. NestJS Certification/2024. NestJS Advanced Concepts Course/NestJS Advanced Concepts Course.md",
+    "1. Projects/1. Business/Education/2024. AWS SAA certification/Preparation/Coursera. Architecting Solutions  on AWS/Modules/Module 1/Lessons/10. Final Exercise.md",
+    "1. Projects/1. Business/Education/2024. AWS SAA certification/Preparation/Coursera. Architecting Solutions  on AWS/Modules/Module 1/2. Architecting the Solution.md",
+    "1. Projects/1. Business/Education/2024. AWS SAA certification/Preparation/Coursera. Architecting Solutions  on AWS/Modules/Module 1 - Designing a serverless backend.md",
+    "1. Projects/1. Business/Education/2024. AWS SAA certification/Preparation/Coursera. Architecting Solutions  on AWS/Coursera. Architecting Solutions on AWS.md",
+    "1. Projects/1. Business/Education/2024. AWS SAA certification/AWS Solution Architect Associate certification.md",
+    "6. Daily Notes/2024/40 Week/1 Monday 30.09.2024.md",
+    "1. Projects/1. Business/Education/2024. AWS SAA certification/Preparation/Coursera. Building Data Lakes on AWS/Coursera. Building Data Lakes on AWS.md",
+    "1. Projects/1. Business/Education/2024. AWS SAA certification/Preparation/Coursera. Building Data Lakes on AWS/Modules/Module 1 - Introduction to Data Lakes.md",
+    "1. Projects/1. Business/Education/2024. AWS SAA certification/Preparation/Coursera. Building Data Lakes on AWS/Modules/Module 1/1. Data Lake and Data Warehouse.md",
+    "1. Projects/1. Business/Jobs/Mobiquity/Mobiquity.D&G/Work/D&G Work.md",
+    "1. Projects/1. Business/Jobs/Mobiquity/Mobiquity.D&G/Work/Archive/Tasks/WI-947 Get Contract throws 400 response for ACM Version 2 Product Variant for few requests.md",
+    "1. Projects/1. Business/Jobs/Mobiquity/Mobiquity.D&G/Mobiquity.D&G.md",
+    "1. Projects/1. Business/Jobs/Mobiquity/Mobiquity.Office/Meetings/121/2024.10.09 Atakan 121.md",
+    "1. Projects/1. Business/Jobs/Mobiquity/Mobiquity.Office/Meetings/Mobiquity Meetings.md",
+    "1. Projects/1. Business/Jobs/Mobiquity/Mobiquity.Office/Mobiquity.Office.md",
+    "1. Projects/1. Business/Jobs/Mobiquity/Mobiquity.D&G/Meetings/DevGuild/2024.08.30 WIB Dev Guild.md",
+    "1. Projects/1. Business/Jobs/Mobiquity/Mobiquity.D&G/Meetings/D&G Meetings.md",
+    "6. Daily Notes/2024/42 Week/3 Wednesday 16.10.2024.md",
+    "1. Projects/1. Business/Jobs/Mobiquity/Mobiquity.D&G/Meetings/Retro/2024.10.20 - Sprint 24 - Retro.md",
+    "1. Projects/1. Business/Jobs/Mobiquity/Mobiquity.D&G/Meetings/RefinementPlanning/2024.10.15 WI Squad 1 - Refinement Session.md",
+    "6. Daily Notes/2024/42 Week/2 Tuesday 15.10.2024.md",
+    "_Inbox/MyIntentions.canvas",
+    "1. Projects/5. Personal/Languages/Dutch/Programs",
+    "IMG_3308.png",
+    "IMG_3294.jpeg",
+    "6. Daily Notes/2024/23 Week",
+    "3. Projects/1. Business/Jobs/Mobiquity.D&G/Data/Delivery/History",
+    "6. Daily Notes (Personal)/2024/04 April Week 17",
+    "What’s that?.canvas",
+    "Untitled",
+    "Assets/Images/Pasted image 20240411170649.png",
+    "Assets/Images/NestJS AC Course/Pasted image 20240411123112.png",
+    "Assets/Images/NestJS AC Course/Pasted image 20240412112902.png",
+    "Assets/Images/NestJS AC Course/Pasted image 20240412112543.png",
+    "Pasted image 20240410144239.png",
+    "IMG_2215.jpeg",
+    "IMG_2207.jpeg",
+    "IMG_2203.jpeg",
+    "0. Agenda",
+    "5. Knowledge/Personal Dimension/3. Self Development/Travel"
+  ]
+}

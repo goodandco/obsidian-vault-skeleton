@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "0b39f4d0ac102b0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f2c6de0b03bafe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a9d68870a5659a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Weekly Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weekly Note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "881376d75318b3ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "9444b6341ab15114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29b7522eb5f7f653",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c493cce411b7be8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Inbox/Inbox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inbox"
+            }
+          },
+          {
+            "id": "3cea5d5d4dc443e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "my intentions",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9c47e775480ef07e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348.5
+  },
+  "right": {
+    "id": "a95ec20c7350296e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a145583d2d51c21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07972104cffeba65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Inbox/20.08.2025 Article about VIBE CODING.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20.08.2025 Article about VIBE CODING"
+            }
+          },
+          {
+            "id": "1e1715316e4296aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Projects/1. Business/Education/2024. Dutch A2/Programs/Mobiquity. Dutch A2/Meetings/2024.10.30 - Dutch A2 Meeting Lesson.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024.10.30 - Dutch A2 Meeting Lesson"
+            }
+          },
+          {
+            "id": "f8531ae8972ed0a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2102f0bbc265c4e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Projects/1. Business/Education/2024. Dutch A2/Programs/Mobiquity. Dutch A2/Meetings/2024.10.30 - Dutch A2 Meeting Lesson.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024.10.30 - Dutch A2 Meeting Lesson"
+            }
+          },
+          {
+            "id": "06ea148a379331e3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "f54ed199b8a4277f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "2a9d68870a5659a1",
+  "lastOpenFiles": [
+    "Templates/Note.md",
+    "Templates/Daily Note.md",
+    "6. Daily Notes/2026/01 Week/sample.md",
+    "_Inbox/Inbox.md",
+    "0. Atlas/Projects 2026.md",
+    "0. Toolbox/tool.md",
+    "1. Projects/1. Business/sample.md",
+    "2. Areas/areas.md",
+    "Templates/Common/Idea Template.md",
+    "Templates/Common/Lesson.md",
+    "Templates/Common/Meeting Note.md",
+    "Templates/Common/Note.md",
+    "Templates/Common/Organization.md",
+    "Templates/Common/Person.md",
+    "Templates/Common/Project Section Work.md",
+    "Templates/Common/Question Template.md",
+    "Templates/Common/Task Template.md",
+    "Templates/Weekly Note.md",
+    "Templates/Common/Project Template.md",
+    "Assets/assets.md",
+    "4. Archive/archive.md",
+    "3. Resources/resource.md",
+    "2. Areas/Areas.md",
+    "0. Toolbox/Snyk.md",
+    "0. Toolbox/Node.js.md",
+    "0. Toolbox/Jest.md",
+    "6. Daily Notes/2025/52 Week",
+    "Templates/Philips_Templates",
+    "1. Projects/1. Business/Jobs/2026.Mobiquity.Philips/People",
+    "1. Projects/1. Business/Jobs/2026.Mobiquity.Philips/Work/Tasks",
+    "1. Projects/1. Business/Jobs/2026.Mobiquity.Philips/Work",
+    "1. Projects/1. Business/Jobs/2026.Mobiquity.Philips/Meetings",
+    "1. Projects/1. Business/Jobs/2026.Mobiquity.Philips/Knowledge Base",
+    "1. Projects/1. Business/Jobs/2026.Mobiquity.Philips",
+    "6. Daily Notes/2026/01 Week",
+    "6. Daily Notes/2026",
+    "_Inbox/MyIntentions.canvas",
+    "1. Projects/5. Personal/Self Management/Building the Second Brain/Entities.canvas",
+    "1. Projects/2. Family/Parenting/Max Swimming/Assets/Pasted image 20251211102044.png",
+    "1. Projects/5. Personal/Languages/2025.Taaltrainier.Dutch A2 Complete/Meetings/Assets/Screenshot2025_12_10_194639 1.jpg",
+    "1. Projects/5. Personal/Languages/2025.Taaltrainier.Dutch A2 Complete/Meetings/Assets/Screenshot2025_12_10_194639.jpg",
+    "Assets/Pasted image 20251208095550.png",
+    "Assets/Pasted image 20251204111428.png",
+    "1. Projects/1. Business/Jobs/Mobiquity/2025. Bench and RFP/2025.Mobiquity.Finova/Meetings/Assets/Pasted image 20251105203155.png",
+    "Assets/Pasted image 20251124154721.png",
+    "1. Projects/1. Business/Jobs/Mobiquity/2025. Bench and RFP/2025.Mobiquity.LSEG-AI/Work/Tasks/Assets/Pasted image 20251119115620.png",
+    "Assets/Pasted image 20251112111441.png",
+    "1. Projects/1. Business/Jobs/Mobiquity/2023. Mobiquity.Office/Meetings/KnowledgeSharing/Assets/Pasted image 20251107125503.png",
+    "4. Archive/2024. Business. Job. Mobiquity.D&G/Work/Archive/Tasks/Improve CiCD/Pull Request workflow diagram.canvas",
+    "4. Archive/2025. Business. Education. AWS SAA certification/AWS Dash - domain per pillar.canvas",
+    "4. Archive/2025. Business. Education. AWS SAA certification/AWS Dash - domain per pillar old.canvas",
+    "4. Archive/2025. Business. Education. AWS SAA certification/AWS Dashboard.canvas",
+    "3. Resources/Topics/NestJS/NestJS dataflow diagram.canvas",
+    "1. Projects/1. Business/Education/AWS SAA certification/AWS Dash - domain per pillar.canvas",
+    "1. Projects/1. Business/Education/AWS SAA certification/AWS Dashboard.canvas",
+    "1. Projects/1. Business/Education/AWS SAA certification/AWS Dash - domain per pillar old.canvas"
+  ]
+}
